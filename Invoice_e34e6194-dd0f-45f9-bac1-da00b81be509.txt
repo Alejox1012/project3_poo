@@ -1,0 +1,6 @@
+Factura de Renta
+=================
+Nombre del Cliente: didian
+Películas Rentadas:
+Fecha de Devolución: 28/10/2024
+Precio Total: $0.0

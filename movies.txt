@@ -1,0 +1,10 @@
+reg1041,ha,202,sd,true,10000.0
+prm1039,harry potter,2024,accion,true,13000.0
+reg1037,aaaaaaaaaaa,2023,accion,true,10000.0
+reg1035,dasd,2023,asdas,true,10000.0
+reg1033,dassda,2023,accion,true,10000.0
+reg1031,adad,2023,accion,true,10000.0
+prm1029,a,2024,a,true,13000.0
+reg1027,greta,2023,perra,true,10000.0
+reg1025,sss,2023,sss,true,10000.0
+prm1023,ggg,2024,ggg,true,13000.0
